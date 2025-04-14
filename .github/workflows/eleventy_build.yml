@@ -5,12 +5,12 @@ jobs:
   build_deploy:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@master
       - uses: actions/setup-node@v4
         with:
           node-version: '>=18.x'
+      - uses: actions/checkout@master
       - name: Build
-        uses: TartanLlama/actions-eleventy@master
+        uses: patrickweaver/actions-eleventy@upgrade-node-22
         with:
           args: --output dist
           install_dependencies: true
