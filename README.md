@@ -1,3 +1,3 @@
-# angelfgc.github.io
+# About
 
-Based on the [Eleventy Web Start](https://github.com/chrissy-dev/eleventy-web-starter) by Chris Collins
+Website for AFGC
