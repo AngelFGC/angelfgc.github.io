@@ -6,15 +6,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="/assets/favicon.jpeg" />
 
-        <!-- FA icons -->
-        <link
-            rel="stylesheet"
-            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
-            integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
-            crossorigin="anonymous"
-            referrerpolicy="no-referrer"
-        />
-
         <!-- Set the base URL for all relative URLs within the document -->
         <base href="/misc/">
         
@@ -24,6 +15,15 @@
         -->
         <meta name="description" content="Mischellaneous - Angel Fernando Garcia Contreras, PhD">
 
+        <!-- FA icons -->
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+            integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+            crossorigin="anonymous"
+            referrerpolicy="no-referrer"
+        />
+
         <!-- Try and serve Google Fonts in the most efficent way possible -->
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'"/>
@@ -31,7 +31,7 @@
             <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet" type="text/css"/>
         </noscript>
 
-        <link rel="stylesheet" href="/css/98.css" />
+        <link rel="stylesheet" href="https://unpkg.com/98.css" />
         <link rel="stylesheet" href="/css/main.css" />
         
         <!-- jQuery-->
@@ -45,8 +45,20 @@
     </head>
 
     <body>
-        <div class="window-body">
-            
+        <div class="window" style="margin: 32px; max-width: 50rem;">
+            <div class="title-bar">
+                <div class="title-bar-text">
+                angelfgc.github.io
+                </div>
+
+                <div class="title-bar-controls">
+                    <button aria-label="Minimize"></button>
+                    <button aria-label="Maximize"></button>
+                    <button aria-label="Close"></button>
+                </div>
+            </div>
+            <div class="window-body">
+                
 
 <menu role="tablist">
     <li role="tab" ><a href="/">Home</a></li>
@@ -54,13 +66,18 @@
     <li role="tab" ><a href="/publications/">Publications</a></li>
     <li role="tab"  aria-selected="true" ><a href="/misc/">Mischellaneous</a></li>
 </menu>
-            
-            <div class="window" role="tabpanel">
-                <div class="window-body">
-                <p>UNDER CONSTRUCTION</p>
+                
+                <div class="window" role="tabpanel">
+                    <div class="window-body">
+                    <p>UNDER CONSTRUCTION</p>
 
+                    </div>
                 </div>
             </div>
+            <div class="status-bar">
+    <p class="status-bar-field">© 2025 Angel F. Garcia Contreras</p>
+    <p class="status-bar-field">Built with 11ty</p>
+</div>
         </div>
 
     </body>
