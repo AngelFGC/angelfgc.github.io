@@ -9,6 +9,10 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addWatchTarget('src/js');
     eleventyConfig.addWatchTarget('src/css');
 
+    eleventyConfig.addCollection("publications", (collection) => {
+        return collection.getAll()[0].data.publications;
+    });
+
     return {
         dir: {
             input: 'src',

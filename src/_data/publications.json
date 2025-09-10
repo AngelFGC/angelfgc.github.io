@@ -1,0 +1,219 @@
+[
+    {
+        "authors": "Wang, X. and Garcia Contreras, Angel Fernando and Ceberio, Martine and Del Hoyo, Christian and Gutierrez, Luis Carlos",
+        "title": "A speculative algorithm to extract fuzzy measures from sample data",
+        "publication": "Proceedings for the 2012 IEEE International Conference on Fuzzy Systems",
+        "year": "2012",
+        "refereed": false
+    },
+    {
+        "authors": "Wang, X. and Garcia Contreras, Angel Fernando and Ceberio, Martine and Del Hoyo, Christian and Gutierrez, Luis Carlos and Virane, S.",
+        "title": "Interval-based algorithms to extract fuzzy measures for Software Quality Assessment",
+        "publication": "Proceedings for the 2012 Annual Meeting of the North American Fuzzy Information Processing Society (NAFIPS)",
+        "year": "2012",
+        "refereed": false
+    },
+    {
+        "authors": "Wang, X. and Garcia Contreras, Angel Fernando and Ceberio, Martine and Del Hoyo, Christian and Gutierrez, Luis Carlos",
+        "title": "A Hybrid Speculative Optimization Algorithms to Help Predict Multi-Criteria Decisions",
+        "publication": "Proceedings for the 2012 Society for Advancement of Hispanics/Chicanos and Native Americans in Science National Conference",
+        "year": "2012",
+        "refereed": false
+    },
+    {
+        "authors": "Wang, X. and Ceberio, Martine and Garcia Contreras, Angel Fernando",
+        "title": "Towards fuzzy method for estimating prediction accuracy for discrete inputs, with application to predicting at-risk students",
+        "publication": "Proceedings for the 2013 Joint IFSA World Congress and NAFIPS Annual Meeting (IFSA/NAFIPS)",
+        "year": "2013",
+        "refereed": false
+    },
+    {
+        "authors": "Garcia Contreras, Angel Fernando",
+        "title": "Contributions to global optimization using interval methods and speculation",
+        "publication": "DEFAULT",
+        "year": "2014",
+        "refereed": false
+    },
+    {
+        "authors": "Garcia Contreras, Angel Fernando and Ceberio, Martine",
+        "title": "Comparison of strategies for solving global optimization problems using speculation and interval computations",
+        "publication": "Proceedings for the 2016 Annual Conference of the North American Fuzzy Information Processing Society (NAFIPS)",
+        "year": "2016",
+        "refereed": false
+    },
+    {
+        "authors": "Garcia Contreras, Angel Fernando and Cheon, Yoonsik",
+        "title": "Specifying a Global Optimization Solver in Z",
+        "publication": "DEFAULT",
+        "year": "2016",
+        "refereed": false
+    },
+    {
+        "authors": "Valera, L. and Garcia Contreras, Angel Fernando and Gholamy, A. and Ceberio, Martine and Florez, H.",
+        "title": "Towards predictions of large dynamic systems' behavior using reduced-order modeling and interval computations",
+        "publication": "Proceedings for the 2017 IEEE International Conference on Systems, Man, and Cybernetics (SMC)",
+        "year": "2017",
+        "refereed": false
+    },
+    {
+        "authors": "Garcia Contreras, Angel Fernando and Valera, Leobardo and Ceberio, Martine",
+        "title": "Parameter Estimation of a Dynamic System Using VSPODE",
+        "publication": "Proceedings for 2017 Annual Meeting of the Constraint Programming and Decision Making",
+        "year": "2017",
+        "refereed": false
+    },
+    {
+        "authors": "Garcia Contreras, Angel Fernando and Ceberio, Martine and Kreinovich, Vladik",
+        "title": "Why Convex Optimization Is Ubiquitous and Why Pessimism Is Widely Spread",
+        "publication": "Decision Making under Constraints",
+        "year": "2020",
+        "refereed": false
+    },
+    {
+        "authors": "Garcia Contreras, Angel Fernando and Ceberio, Martine and Kreinovich, Vladik",
+        "title": "Plans Are Worthless but Planning Is Everything: A Theoretical Explanation of Eisenhower{\\textquoteright}s Observation",
+        "publication": "Decision Making under Constraints",
+        "year": "2020",
+        "refereed": false
+    },
+    {
+        "authors": "Valera, Leobardo and Contreras, Garcia Contreras, Angel Fernando and Ceberio, Martine",
+        "title": "``On-the-fly'' Parameter Identification for Dynamic Systems Control, Using Interval Computations and Reduced-Order Modeling",
+        "publication": "Proceedings of the 2018 Annual Conference of the North American Fuzzy Information Processing Society (NAFIPS)",
+        "year": "2018",
+        "refereed": false
+    },
+    {
+        "authors": "Valera, Leobardo and Ceberio, Martine and Bravo, Luis and Garcia Contreras, Angel Fernando and Padilla, Jesus",
+        "title": "Handling Uncertainty in the Finite Element Method Using Interval Constraint Solving Techniques",
+        "publication": "Proceedings of the 29th European Safety and Reliability Conference (ESREL)",
+        "year": "2018",
+        "refereed": false
+    },
+    {
+        "authors": "Olumoye, Omeiza and Throneberry, Glen and Garcia Contreras, Angel Fernando and Valera, Leobardo and Abdelkefi, Abdessattar and Ceberio, Martine",
+        "title": "Solving Large Dynamical Systems by Constraint Sampling",
+        "publication": "Proceedings for the 2019 Workshop on Engineering Applications",
+        "year": "2019",
+        "refereed": false
+    },
+    {
+        "authors": "Garcia Contreras, Angel Fernando and Ceberio, Martine and Kreinovich, Vladik",
+        "title": "Scale Invariance Explains Quadratic Damping: Case of Insect Wings Flapping",
+        "publication": "Journal of Uncertain Systems",
+        "year": "2019",
+        "refereed": false
+    },
+    {
+        "authors": "Garcia Contreras, Angel Fernando and Throneberry, Glen and Olumoye, Omeiza and Valera, Leobardo and Ceberio, Martine and Abdelkefi, Abdessattar",
+        "title": "Interval-based solving techniques for large-scale dynamical systems",
+        "publication": "Proceedings of the 2020 International Design Engineering Technical Conferences \\& Computers and Information in Engineering Conference (IDETC-CIE)",
+        "year": "2020",
+        "refereed": false
+    },
+    {
+        "authors": "Garcia Contreras, Angel Fernando and Ceberio, Martine",
+        "title": "Solving Dynamical Systems Using Windows of Sliding Subproblems",
+        "publication": "Applied Computer Sciences in Engineering: 8th Workshop on Engineering Applications, WEA 2021, Medell\u00edn, Colombia, October 6\u20138, 2021, Proceedings",
+        "year": "2021",
+        "refereed": false
+    },
+    {
+        "authors": "Garcia Contreras, Angel Fernando",
+        "title": "Interval Constraint-Solving Strategies For Solving Dynamical Systems",
+        "publication": "DEFAULT",
+        "year": "2021",
+        "refereed": false
+    },
+    {
+        "authors": "Garcia Contreras, Angel Fernando and Ceberio, Martine",
+        "title": "Comparison of\u00a0Higher-Order Approximations to\u00a0Solve Dynamical Systems Using Interval Constraint Solving",
+        "publication": "Applied Computer Sciences in Engineering",
+        "year": "2022",
+        "refereed": false
+    },
+    {
+        "authors": "Ahmad, Huthaifa and Garcia Contreras, Angel Fernando and Kawano, Seiya and Liu, Chaoran and Yuguchi, Akishige and Sonogashira, Motoharu and Kawanishi, Yasutomo and Ishi, Carlos Toshinori and Minato, Takashi and Nakamura, Yutaka and Yoshino, Koichiro and Ruuska, Heikki and Saito, Yasuki and Minoh, Michihiko",
+        "title": "Autonomous Interactive Robot Assisting the User by Circling the Living Space",
+        "publication": "Proceedings of the 41st Annual Meeting of the Robotic Society of Japan (in Japanese)",
+        "year": "2023",
+        "refereed": false
+    },
+    {
+        "authors": "Garcia Contreras, Angel Fernando and Kawano, Seiya and Kawanishi, Yasutomo and Nakamura, Yutaka and Saito, Satoru and Yoshino, Koichiro",
+        "title": "Examining the Impact of a Forgetful Multi-store Memory System in a Cognitive Assistive Robot",
+        "publication": "Proceedings for The 14th International Workshop on Spoken Dialogue Systems Technology (IWSDS)",
+        "year": "2024",
+        "refereed": false
+    },
+    {
+        "authors": "Garcia Contreras, Angel Fernando and Kawano, Seiya and Kawanishi, Yasutomo and Nakamura, Yutaka and Saito, Satoru and Yoshino, Koichiro",
+        "title": "Forgetful Multi-store Memory System for a Cognitive Assistive Robot",
+        "publication": "Proceedings for the 30th Annual Meeting for the Japanese Association for Natural Language Processing",
+        "year": "2024",
+        "refereed": false
+    },
+    {
+        "authors": "Garcia Contreras, Angel Fernando and Chang, Wen-Yu and Kawano, Seiya and Chen, Yun-Nung and Yoshino, Koichiro",
+        "title": "Using Language Models to Generate and Forget the Narrative Memories of an Assistive Robot",
+        "publication": "International Conference on Multimedia Modeling",
+        "year": "2025",
+        "refereed": false
+    },
+    {
+        "authors": "Baihaqi, Muhammad Yeza and Garcia Contreras, Angel Fernando and Kawano, Seiya and Yoshino, Koichiro",
+        "title": "Rapport-Driven Virtual Agent: Rapport Building Dialogue Strategy for Improving User Experience at First Meeting",
+        "publication": "Proceedings for INTERSPEECH 2024",
+        "year": "2024",
+        "refereed": false
+    },
+    {
+        "authors": "Tsai, Shang-Chi and Kawano, Seiya and Garcia Contreras, Angel Fernando and Yoshino, Koichiro and Chen, Yun-Nung",
+        "title": "ASMR: Augmenting Life Scenario using Large Generative Models for Robotic Action Reflection",
+        "publication": "Proceedings for The 14th International Workshop on Spoken Dialogue Systems Technology (IWSDS)",
+        "year": "2024",
+        "refereed": false
+    },
+    {
+        "authors": "Garcia Contreras, Angel Fernando and Kawano, Seiya and Kawanishi, Yasutomo and Yuguchi, Akishige and Yoshino, Koichiro",
+        "title": "Designing a ``Forgetful'' and ``Expressive'' Multi-store Memory System for a Cognitive Robot",
+        "publication": "Presented at the Seventh International Workshop on Symbolic-Neural Learning (SNL2023)",
+        "year": "2023",
+        "refereed": false
+    },
+    {
+        "authors": "Garcia Contreras, Angel Fernando and Chang, Wen-Yu and Kawano, Seiya and Chen, Yun-Nung and Yoshino, Koichiro",
+        "title": "Building and Forgetting an Assistive Robot's First-Person Narrative Memory through Large Language Models",
+        "publication": "Presented at the Eigth International Workshop on Symbolic-Neural Learning (SNL2024)",
+        "year": "2024",
+        "refereed": false
+    },
+    {
+        "authors": "Baihaqi, Muhammad Yeza and Garcia Contreras, Angel Fernando and Kawano, Seiya and Yoshino, Koichiro",
+        "title": "Exploring User Feedback: A Thematic and Sentiment Analysis of User Interactions with LLM-Based Dialogue Robots",
+        "publication": "Proceedings for the 31st Annual Meeting for the Japanese Association for Natural Language Processing",
+        "year": "2025",
+        "refereed": false
+    },
+    {
+        "authors": "Baihaqi, Muhammad Yeza and Garcia Contreras, Angel Fernando and Kawano, Seiya and Yoshino, Koichiro",
+        "title": "Comparing Likert scale and pairwise comparison for human evaluation in rapport-building dialogue systems",
+        "publication": "Proceedings of SIG-SLP/NL 2024",
+        "year": "2024",
+        "refereed": false
+    },
+    {
+        "authors": "Baihaqi, Muhammad Yeza and Garcia Contreras, Angel Fernando and Kawano, Seiya and Yoshino, Koichiro",
+        "title": "LLM-driven approach for motion control in human-robot dialogue for elevating engagement",
+        "publication": "Proceedings for the IEEE RO-MAN 2025 Conference",
+        "year": "2025",
+        "refereed": false
+    },
+    {
+        "authors": "Baihaqi, Muhammad Yeza and Garcia Contreras, Angel Fernando and Kawano, Seiya and Yoshino, Koichiro",
+        "title": "Co-Speech motion for virtual agents in dialogue using LLM-driven primitive action selection",
+        "publication": "Proceedings for INTERSPEECH 2025",
+        "year": "2025",
+        "refereed": false
+    }
+]
