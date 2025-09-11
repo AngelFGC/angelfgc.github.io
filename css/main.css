@@ -89,6 +89,19 @@ p {
   margin-bottom: 1rem;
 }
 
+.field-border {
+  padding-left: 32px;
+  padding-right: 32px;
+}
+
+.main-content-li {
+    list-style-type: none;
+}
+
+.main-content-ul {
+  padding-left:12px;
+}
+
 blockquote {
   margin: 0 0 20px;
   padding: 20px;
