@@ -7,6 +7,6 @@ eleventyNavigation:
   order: 3
 ---
 ## Publications
-(list is a WIP)
+
 {% include "components/publications.njk" %}
 

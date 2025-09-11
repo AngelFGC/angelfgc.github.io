@@ -4,7 +4,6 @@
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="icon" href="/assets/favicon.jpeg" />
 
         <!-- Set the base URL for all relative URLs within the document -->
         <base href="{{ page.url }}">
@@ -40,7 +39,9 @@
                 
                 <div class="window" role="tabpanel">
                     <div class="window-body">
-                    {{ content | safe }}
+                        <div class="field-border" id="main-content">
+                        {{ content | safe }}
+                        </div>
                     </div>
                 </div>
             </div>

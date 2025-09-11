@@ -1,5 +1,5 @@
 
-<div class="field-border">
+<div>
     <ul>
         {%- for pub in publications reversed %}
         <li class="li-pub"> <b>{{ pub.authors }}</b>, "{{ pub.title }}," <span style="font-style: italic;">{{ pub.publication}}</span>, {{ pub.year }}{% if pub.refereed %} (refereed){% endif %}.

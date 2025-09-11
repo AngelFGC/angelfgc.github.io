@@ -6,9 +6,21 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
+<img src="assets/afgc.png" style="width: 150px; float:right; margin:12px 0px 12px 12px; image-rendering: pixelated;"/>
 
-### **Angel Fernando Garcia Contreras, PhD.**
+### Angel Fernando Garcia Contreras, PhD.
+#### Research Scientist
+<ul class="main-content-ul">
+<li class="main-content-li">Knowledge Acquisition and Dialogue Team</li>
+<li class="main-content-li">Guardian Robot Project</li>
+<li class="main-content-li">Information R&D and Strategy Headquarters (R-IH)</li>
+<li class="main-content-li">RIKEN</li>
+</ul>
 
-I am a Doctor of Science in Computer Science, with a background in Software Engineering. My current research focuses on **Memory for Cognitive Robots**, with a focus on memories used in **Human-Robot Dialog**. This research is in use at RIKEN Guardian Robot Project's humanoid robot **Indy**.
 
-This website is currently under construction.
+#### Assistant Professor
+<ul class="main-content-ul">
+<li class="main-content-li">Intelligent Robot Dialogue Laboratory, Information Science Division</li>
+<li class="main-content-li">Nara Institute of Science and Technology</li>
+</ul>
+
