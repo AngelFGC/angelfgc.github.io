@@ -102,6 +102,10 @@ p {
   padding-left:12px;
 }
 
+.navheader {
+  font-size:large;
+}
+
 blockquote {
   margin: 0 0 20px;
   padding: 20px;
