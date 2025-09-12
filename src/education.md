@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 2
 ---
 
-### Education
+### Primary Education
 - **Ph.D of Science in Computer Science**, December 2021
 <br/>The University of Texas at El Paso, El Paso, Texas, USA
 <br/>Thesis Title: *Interval Constraint-Solving Strategies For Solving Dynamical Systems*

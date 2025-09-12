@@ -2,6 +2,6 @@
 {% set navPages = collections.all | eleventyNavigation %}
 <menu role="tablist">
     {%- for entry in navPages %}
-    <li role="tab" {% if entry.url == page.url %} aria-selected="true" {% endif %}><a href="{{ entry.url }}">{{ entry.title }}</a></li>
+    <li role="tab" {% if entry.url == page.url %} aria-selected="true" {% endif %}><a href="{{ entry.url }}" class="navheader" >{{ entry.title }}</a></li>
     {%- endfor %}
 </menu>

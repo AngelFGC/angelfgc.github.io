@@ -6,7 +6,8 @@ eleventyNavigation:
   key: Publications
   order: 3
 ---
-## Publications
+
+### List of Publications
 
 {% include "components/publications.njk" %}
 

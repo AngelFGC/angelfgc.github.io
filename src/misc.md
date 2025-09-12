@@ -7,8 +7,6 @@ eleventyNavigation:
   order: 5
 ---
 
-### Contact
-
 #### Email
 
 - angel.garciacontreras \[at\] riken.jp
